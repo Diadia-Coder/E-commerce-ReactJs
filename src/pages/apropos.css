@@ -1,0 +1,22 @@
+.card{
+    margin: 75px;
+    padding: 15px;
+}    
+.img-card{
+    margin: 15px;
+    text-align: center;
+    width: 350px;
+    height: 150px;
+    text-align: right;
+    object-fit: cover;
+}
+.card-title{
+    border-bottom: 5 yellow ;
+}
+.traits{
+    width: 50%;
+    height: 10px;
+    background-color: yellow;
+    margin-bottom: 75px;
+    border-radius: 4px;
+}
